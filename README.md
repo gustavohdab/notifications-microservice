@@ -33,7 +33,7 @@ OBS: The project was for knowledge consolidation, so some features may not be av
 - Use [Insomnia](https://insomnia.rest/download) or another one that you usually do, to test the API endpoints
 - Use KafkaJS to test the message broker
 
-### Kafka-Producer
+### KafkaJS-Producer
 
 - I also created a new folder just typed `npm init` and then `npm install kafkajs` and then I created a file called `producer.js`. In this file I created a producer following the documentation of KafkaJS. Then just run `node producer.js` and you can see the messages in the terminal where the project is running like an Consumer.
 
