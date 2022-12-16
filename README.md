@@ -10,6 +10,7 @@ This is an notification microservice based Microservice Architecture with NestJS
 - Project uses [NodeJS](https://nodejs.org/en/) as runtime environment
 - Project uses [TypeScript](https://www.typescriptlang.org/) as language
 - Project uses [Prisma](https://www.prisma.io/) as ORM
+- Project uses [KafkaJS](https://kafka.js.org/) as message broker
 
 ### Some of the features
 
